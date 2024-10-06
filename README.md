@@ -4,7 +4,7 @@ My name is Rafael and I'm a full stack developer
 
 ## Technologies
 - Languages: Python, PHP, HTML5, CSS3, JavaScript, TypeScript
-- Tools: Git, Selenium, Postgresql, Sqlite, VsCode, Postman, Insomnia, DataGrip, Dbeaver, PhpStorm, RestApi, TailwindCSS, Drizzle, ClickUp
+- Tools: Git, Selenium, Postgresql, Sqlite, VsCode, Postman, Insomnia, DataGrip, Dbeaver, PhpStorm, RestApi, TailwindCSS, Drizzle, ClickUp, Docker
 - Frameworks: Django, Laravel, Bootstrap, React, NextJS
 
 ## Contact:
