@@ -1,6 +1,6 @@
 ## Welcome to my GitHub profile 👋
 
-My name is Rafael, and I’m a Full Stack Developer at Fazpay, focused on building scalable, secure, and high-quality web applications. I work across the full stack, turning business requirements into clean, efficient, and maintainable solutions.
+My name is Rafael, and I’m a Full Stack Developer, focused on building scalable, secure, and high-quality web applications. I work across the full stack, turning business requirements into clean, efficient, and maintainable solutions.
 
 I have hands-on experience developing modern front-end interfaces and robust back-end APIs, always following best practices, clean code principles, and a continuous learning mindset.
 
